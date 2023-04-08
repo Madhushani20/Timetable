@@ -1,4 +1,6 @@
-<table border="4" cellspacing="0" align="center">
+<html>
+	<body>
+		<table border="4" cellspacing="0" align="center">
 
 	<!--<caption>Time Table</caption>-->
 		
@@ -66,3 +68,5 @@
 			<td align="center" height="50">Music</td>
 			<td align="center" height="50">Social Studies</td>
 		</tr>
+			</body>
+		</html>
